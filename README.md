@@ -34,7 +34,7 @@ A production-ready Next.js SaaS boilerplate with authentication, multi-tenancy, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/saas-boilerplate.git
+   git clone https://github.com/tjfleenor/saas-boilerplate.git
    cd saas-boilerplate
    ```
 
